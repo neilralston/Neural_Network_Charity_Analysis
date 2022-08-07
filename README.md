@@ -62,10 +62,12 @@ Compiling, Training, and Evaluating the Model
    * Added a third hidden layer with 12 neurons
    * Changed the activation function for all hidden layers to Tahn
  
+     ![Optimized Model](model2.PNG)
+ 
 ### Summary
 The optimized model resulted in slightly increased accuracy, but still below the targeted 75%.
 
-![Optimized Model](model2.PNG)
+![Optimized Model](results2.PNG)
 
 Based on these results, it appears that the deep learning model may have overcomplicated this classification problem.
 
