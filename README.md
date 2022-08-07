@@ -62,7 +62,7 @@ Compiling, Training, and Evaluating the Model
    * Added a third hidden layer with 12 neurons
    * Changed the activation function for all hidden layers to Tahn
  
-     ![Optimized Model](model2.PNG)
+     ![Optimized Model](model_opt.PNG)
  
 ### Summary
 The optimized model resulted in slightly increased accuracy, but still below the targeted 75%.
